@@ -1,0 +1,10 @@
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\bin\Debug\netcoreapp2.0\SeDes.deps.json
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.json
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\bin\Debug\netcoreapp2.0\SeDes.runtimeconfig.dev.json
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\bin\Debug\netcoreapp2.0\SeDes.dll
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\bin\Debug\netcoreapp2.0\SeDes.pdb
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\obj\Debug\netcoreapp2.0\SeDes.csproj.CoreCompileInputs.cache
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfoInputs.cache
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\obj\Debug\netcoreapp2.0\SeDes.AssemblyInfo.cs
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\obj\Debug\netcoreapp2.0\SeDes.dll
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\SeDes\obj\Debug\netcoreapp2.0\SeDes.pdb

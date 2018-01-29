@@ -1,0 +1,10 @@
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\bin\Debug\netcoreapp2.0\Lab1.deps.json
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.json
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\bin\Debug\netcoreapp2.0\Lab1.runtimeconfig.dev.json
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\bin\Debug\netcoreapp2.0\Lab1.dll
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\bin\Debug\netcoreapp2.0\Lab1.pdb
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\obj\Debug\netcoreapp2.0\Lab1.csproj.CoreCompileInputs.cache
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfoInputs.cache
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\obj\Debug\netcoreapp2.0\Lab1.AssemblyInfo.cs
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\obj\Debug\netcoreapp2.0\Lab1.dll
+D:\edx\ASPNET\module1_task_1_C#SerializationAndDeserialization\Lab01SelfAssessmentLab\Lab1\obj\Debug\netcoreapp2.0\Lab1.pdb
