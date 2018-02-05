@@ -1,0 +1,10 @@
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
