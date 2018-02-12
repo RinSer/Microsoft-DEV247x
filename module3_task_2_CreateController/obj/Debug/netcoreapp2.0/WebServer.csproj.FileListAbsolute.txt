@@ -8,3 +8,13 @@ d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Control
 d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
 d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
 d:\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Create Controller for the Given Client\Start\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\bin\Debug\netcoreapp2.0\WebServer.deps.json
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\bin\Debug\netcoreapp2.0\WebServer.dll
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\bin\Debug\netcoreapp2.0\WebServer.pdb
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\obj\Debug\netcoreapp2.0\WebServer.dll
+D:\edx\ASPNET\Microsoft-DEV247x\module3_task_2_CreateController\obj\Debug\netcoreapp2.0\WebServer.pdb
