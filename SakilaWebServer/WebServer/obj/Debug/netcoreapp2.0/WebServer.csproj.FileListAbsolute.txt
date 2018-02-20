@@ -8,3 +8,13 @@ C:\Users\irvin\Desktop\Workspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.Ass
 C:\Users\irvin\Desktop\Workspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
 C:\Users\irvin\Desktop\Workspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
 C:\Users\irvin\Desktop\Workspace\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.deps.json
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.json
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.runtimeconfig.dev.json
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.dll
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\bin\Debug\netcoreapp2.0\WebServer.pdb
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.csproj.CoreCompileInputs.cache
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfoInputs.cache
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.AssemblyInfo.cs
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.dll
+D:\edx\ASPNET\Microsoft-DEV247x\SakilaWebServer\WebServer\obj\Debug\netcoreapp2.0\WebServer.pdb
