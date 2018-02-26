@@ -1,0 +1,10 @@
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.deps.json
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.runtimeconfig.json
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.runtimeconfig.dev.json
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.dll
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\bin\Debug\netcoreapp2.0\SakilaWebServer.pdb
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.csproj.CoreCompileInputs.cache
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.AssemblyInfoInputs.cache
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.AssemblyInfo.cs
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.dll
+C:\Users\irvin\SakilaWebServer\SakilaWebServer\obj\Debug\netcoreapp2.0\SakilaWebServer.pdb

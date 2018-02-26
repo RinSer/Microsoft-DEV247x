@@ -1,0 +1,15 @@
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.deps.json
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.runtimeconfig.json
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.runtimeconfig.dev.json
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.dll
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.Test.pdb
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.dll
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\bin\Debug\netcoreapp2.0\WebServer.pdb
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.csproj.CoreCompileInputs.cache
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.AssemblyInfoInputs.cache
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.AssemblyInfo.cs
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.dll
+D:\edx\ASPNET\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_4_Lab_Files\Debug Web API with Unit Test\Buggy\WebServer.Test\obj\Debug\netcoreapp2.0\WebServer.Test.pdb
