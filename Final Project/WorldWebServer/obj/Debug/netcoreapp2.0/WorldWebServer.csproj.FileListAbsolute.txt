@@ -1,0 +1,10 @@
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.deps.json
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.runtimeconfig.json
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.runtimeconfig.dev.json
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.dll
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\bin\Debug\netcoreapp2.0\WorldWebServer.pdb
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.csproj.CoreCompileInputs.cache
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.AssemblyInfoInputs.cache
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.AssemblyInfo.cs
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.dll
+D:\edx\ASPNET\Microsoft-DEV247x\Final Project\WorldWebServer\obj\Debug\netcoreapp2.0\WorldWebServer.pdb
